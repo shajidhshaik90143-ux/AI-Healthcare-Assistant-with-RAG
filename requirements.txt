@@ -1,0 +1,9 @@
+streamlit
+groq
+python-dotenv
+pymupdf
+chromadb
+sentence-transformers
+torch
+numpy
+pandas
